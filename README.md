@@ -2,7 +2,7 @@
 - 👀 I’m interested in to become a full stack developer
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me www.siregocoding.nl
+- 📫 How to reach me sirego@siregocoding.nl
 
 <!---
 SirEgo82/SirEgo82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
